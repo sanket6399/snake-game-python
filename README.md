@@ -15,6 +15,9 @@ To install Pygame, use the command `pip install pygame`.
 
 To run the game, navigate to the directory containing `main.py` and execute the script using Python.
 
+![Alt text for image](https://github.com/sanket6399/snake-game-python/blob/main/preview_snake_game.png)
+
+
 ### Running in a Web Browser with pygbag
 
 You can also run the game in a web browser. Convert the game to WebAssembly by using pygbag. First, install pygbag via pip, then navigate to your game directory and run the conversion command provided by pygbag.
